@@ -38,7 +38,7 @@ To demonstrate this step, I will describe how I apply the distortion correction 
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
-I used a combination of color and gradient thresholds to generate a binary image (thresholding steps in the 4th code cell of `pipeline_image.ipynb`).  Here's an example of my output for this step.
+I used a combination of white color threshold and  yellow color threshold to generate a binary image (thresholding steps in the 4th code cell of `pipeline_image.ipynb`).  Here's an example of my output for this step.
 
 ![](output_images/binary_img.png)
 
